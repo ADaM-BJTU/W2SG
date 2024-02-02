@@ -12,3 +12,8 @@ Beijing Jiaotong University
 <div align="center">
 *Equal Contribution
 </div>
+
+
+## Experimental dataset
+The dataset utilized in our study was derived through sampling from the SciQ dataset (see Raw Data [LINK](https://huggingface.co/datasets/sciq) for more details). 
+Our constructed dataset can be accessed via the following [LINK](https://drive.google.com/drive/folders/1zLtBuysl17TsAjfMSsjc0B4iAXatslWD?usp=drive_link).
