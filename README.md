@@ -34,6 +34,10 @@ Please prepare the environment and install packages according to the [weak-to-st
 The dataset utilized in our study was derived through sampling from the SciQ dataset (see Raw Data [LINK](https://huggingface.co/datasets/sciq) for more details). 
 Our constructed dataset can be accessed via the following [LINK](https://drive.google.com/drive/folders/1zLtBuysl17TsAjfMSsjc0B4iAXatslWD?usp=drive_link).
 
+## Code
+The code will be released after organization.
+
+
 
 ## Acknowledgement
 - The open-source project [weak-to-strong](https://github.com/openai/weak-to-strong).
