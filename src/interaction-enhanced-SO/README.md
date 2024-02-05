@@ -1,6 +1,6 @@
 The following are running examples of the code.
 
-## baseline
+## Baseline
 python baseline.py --model_path [model path] --test_data_path [test data path]
 
 ## In-context-Examples-Generation
