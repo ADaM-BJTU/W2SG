@@ -35,6 +35,7 @@ The dataset utilized in our study was derived through sampling from the SciQ dat
 Our constructed dataset can be accessed via the following [LINK](https://drive.google.com/drive/folders/1zLtBuysl17TsAjfMSsjc0B4iAXatslWD?usp=drive_link).
 
 ## Code
+The code related to section 3, 4, and 5 in the paper is located in the src directory.
 The code will be released after organization.
 
 
