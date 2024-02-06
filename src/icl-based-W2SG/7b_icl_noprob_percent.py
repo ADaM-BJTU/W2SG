@@ -7,8 +7,7 @@ import pandas as pd
 # os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 import fire
 from transformers import AutoModelForCausalLM, AutoTokenizer
-from transformers.generation import GenerationConfig
-from typing import Dict, List, Optional, Sequence, Union
+from transformers.generation import GenerationConfig 
 import torch 
 from tqdm import tqdm
 from datasets import load_from_disk, Dataset

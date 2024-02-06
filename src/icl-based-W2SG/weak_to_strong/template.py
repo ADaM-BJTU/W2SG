@@ -1,11 +1,9 @@
 # 获得当前文件路径
 import os
-BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # /data2/zhangj/weak2strong
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # W2SG/icl-based-W2SG
 from openicl import PromptTemplate
 from dataclasses import dataclass
-from typing import TYPE_CHECKING, Dict, List, Optional, Tuple, Union
-if TYPE_CHECKING:
-    from transformers import PreTrainedTokenizer
+from typing import  Dict, List, Union 
 @dataclass
 class Template:
     prompt: List[Union[str, Dict[str, str]]]
