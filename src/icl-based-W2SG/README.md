@@ -51,9 +51,3 @@ bash scripts/icl-qwen_openicl_retriever.sh
 #### Expected results
 
 The results will be output in the `tmp/results_icl_new` directory
-
-### Acknowledgments
-
-- Hugging Face for their open-source transformer models
-- OpenICL for their Code
-- OpenAI for their Weak-to-Strong Code
