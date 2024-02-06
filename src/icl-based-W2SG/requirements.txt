@@ -1,0 +1,17 @@
+accelerate==0.25.0
+faiss_gpu==1.7.2
+fire==0.5.0
+nltk==3.8.1
+numpy==1.26.3
+openicl.egg==info
+pandas==2.2.0
+rank_bm25==0.2.2
+safetensors==0.4.2
+sentence_transformers==2.2.2
+setuptools==69.0.3
+torch==2.1.2
+torch_optimizer==0.3.0
+torchvision==0.16.2
+tqdm==4.66.1
+transformers==4.36.2
+wandb==0.16.1
