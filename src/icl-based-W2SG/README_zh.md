@@ -53,5 +53,3 @@ bash scripts/icl-qwen_openicl_retriever.sh
 #### Expected results
 
 结果将输出在`tmp/results_icl_new`目录下
-
-
