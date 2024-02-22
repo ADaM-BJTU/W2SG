@@ -1,0 +1,23 @@
+[
+    {
+        "question": "Which carrier molecule becomes less effective at binding oxygen as temperature increases?",
+        "answer": "water",
+        "old_explanation": "Water has a lower boiling point than other carrier molecules, so it can make it more difficult for oxygen to bind to proteins and other cellular components as temperatures increase.",
+        "explanation_from_other": "Water is a versatile solvent that can dissolve a wide range of molecules, including oxygen. However, at high temperatures, the solubility of water decreases due to the increase in hydrogen bonds between water molecules. ",
+        "new_explanation": "The correct answer is water, not oxygen. As mentioned in the explanation form provided, water has a lower boiling point than other carrier molecules and decreased solubility"
+    },
+    {
+        "question": "Hair is a component of which bodily system?",
+        "answer": "integumentary system",
+        "old_explanation": "The integumentary system is responsible for protecting and maintaining the integrity of the body's skin, hair, nails, and other sensory receptors. Hair helps regulate temperature, protect against the elements, and serve as a form of insulation.",
+        "explanation_from_other": "The input question asks for the component of bodily system that hair is a part of. Hair is actually a derivative of the skin cells called dermis, which is responsible for maintaining homeostasis by regulating body temperature and humidity. Therefore, the correct answer to the question is integumentary system.",
+        "new_explanation": "The integumentary system is responsible for protecting and maintaining the integrity of the body's skin, hair, nails, and other sensory receptors. Hair helps regulate temperature"
+    },
+    {
+        "question": "The substances that comprise heterogeneous mixtures can also be separated by what means?",
+        "answer": "physical",
+        "old_explanation": "Physical separation of substances in heterogeneous mixtures refers to methods such as sieving, filtration, and distillation that can isolate specific components or compounds from a mixture.",
+        "explanation_from_other": "The correct answer is that the substances that compose heterogeneous mixtures can also be separated by chemical means, such as precipitation, filtration, or distillation.",
+        "new_explanation": "The substance that comprises heterogeneous mixtures can also be separated by chemical means, such as precipitation, filtration, or distillation, which are not physical methods"
+    }
+]
