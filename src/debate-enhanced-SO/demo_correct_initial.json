@@ -1,0 +1,26 @@
+[
+    {
+        "txt": "question: Which carrier molecule becomes less effective at binding oxygen as temperature increases? answer: water",
+        "response": "Water has a lower boiling point than other carrier molecules, so it can make it more difficult for oxygen to bind to proteins and other cellular components as temperatures increase."
+    },
+    {
+        "txt": "question: The substances that comprise heterogeneous mixtures can also be separated by what means? answer: physical",
+        "response": "Physical separation of substances in heterogeneous mixtures refers to methods such as sieving, filtration, and distillation that can isolate specific components or compounds from a mixture."
+    },
+    {
+        "txt":"question:Hair is a component of which bodily system? answer:integumentary system",
+        "response":"The integumentary system is responsible for protecting and maintaining the integrity of the body's skin, hair, nails, and other sensory receptors. Hair helps regulate temperature, protect against the elements, and serve as a form of insulation."
+    },
+    {
+        "txt":"qustion:How many types of antigens can an antibody match? answer:four",
+        "response":"Antibodies are proteins produced by the immune system that help protect against foreign substances such as bacteria, viruses, and parasites. They can recognize specific antigens and attach to them using specific receptors on the surface of cells. There are four main categories of antibodies: IgG, IgA, IgE, and IgM"
+    },
+    {
+        "txt":"question:What is the process of a cell membrane surrounding a particle and engulfing it calles? answer:ingestion",
+        "response":"The process of a cell membrane surrounding a particle and engulfing it calls it phagocytosis. Phagocytosis is a cellular process that involves the attachment of large particles, such as bacteria or viruses, to the cell surface."
+    },
+    {
+        "txt":"question:Where do radio waves lie on the electromagnetic spectrum? answer:middle",
+        "response":"The middle of the electromagnetic spectrum lies on radio waves. Radio waves have frequencies between 300 MHz (MHz) and 300 GHz (GHz). These waves are produced by electric currents flowing through conductive materials such as metals or thin wires."
+    }
+]

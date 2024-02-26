@@ -1,0 +1,1 @@
+python ./ada_predict.py

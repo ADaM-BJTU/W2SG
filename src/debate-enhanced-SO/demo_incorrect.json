@@ -1,0 +1,23 @@
+[
+    {
+        "question": "The substances that comprise heterogeneous mixtures can also be separated by what means?",
+        "answer": "physical",
+        "old_explanation": "The correct answer is that the substances that compose heterogeneous mixtures can also be separated by chemical means, such as precipitation, filtration, or distillation.",
+        "explanation_from_other": "Physical separation of substances in heterogeneous mixtures refers to methods such as sieving, filtration, and distillation that can isolate specific components or compounds from a mixture.",
+        "new_explanation": "In addition to physical methods, heterogeneous mixtures can also be separated chemically through processes like precipitation, filtration, and distillation. Physical separation may involve separating the"
+    },
+    {
+        "question": "What is the process of a cell membrane surrounding a particle and engulfing it calles?",
+        "answer": "ingestion",
+        "old_explanation": "The process of a cell membrane surrounding a particle and engulfing it calls cellular. It is a fundamental mechanism for the digestion, absorption, and excretion of nutrients, waste products, and pathogens from the cell's cytoplasm.",
+        "explanation_from_other": "The process of a cell membrane surrounding a particle and engulfing it calls it phagocytosis. Phagocytosis is a cellular process that involves the attachment of large particles, such as bacteria or viruses, to the cell surface.",
+        "new_explanation": "The correct explanation is that the process you provided is called phagocytosis. Phagocytosis is a cellular process that involves the attachment of large"
+    },
+    {
+        "question": "Where do radio waves lie on the electromagnetic spectrum?",
+        "answer": "middle",
+        "old_explanation": "Radio waves are located on the electromagnetic spectrum between the visible light spectrum (blue and violet) and the X-ray spectrum (which lies above infrared). They can be transmitted through air or other conductive materials and can be detected by specialized equipment.",
+        "explanation_from_other": "The middle of the electromagnetic spectrum lies on radio waves. Radio waves have frequencies between 300 MHz (MHz) and 300 GHz (GHz). These waves are produced by electric currents flowing through conductive materials such as metals or thin wires.",
+        "new_explanation": "The middle part of the electromagnetic spectrum is indeed where radio waves are located. It lies between the blue and violet light spectrum and the X-ray spectrum."
+    }
+]
